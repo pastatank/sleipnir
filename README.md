@@ -3,4 +3,4 @@ sleipnir
 
 Environment
 
-Software for the sake of software.
+Software for the sake of software!
